@@ -3,6 +3,8 @@ const path = require("path")
 
 app = express();
 
+port = process.env.PORT || 3000;
+
 app.set('view engine', 'ejs')
 app.set('views','views')
 
@@ -12,4 +14,6 @@ app.use('/',  (req, res) => {
     res.render('index')
 })
 
-app.listen(3000);
+app.listen(port, (err) => {
+    console.log(err)
+});
