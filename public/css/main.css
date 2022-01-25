@@ -787,6 +787,22 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #bba31b;
 }
 
+.hire-form-live {
+	margin-top: 0;
+}
+.hire-form-live button:hover, .hire-form-live button:focus{
+	background: #a32e65;
+}
+.hire-form-live button {
+	margin-top: 0px;
+	width: 100%;
+	height: 100%;
+	align-self: center;
+	text-align: center;
+	background: #FF0077;
+	color: white;
+}
+
 /**
  * additional typo styles - (_additional-typo.scss)
  * -------------------------------------------------------------------

@@ -78,7 +78,7 @@
 
 	   			<p class="intro-position">
 	   				<span>Data Scientist</span>
-	   				<span>Cyber Security Enginner</span> 
+	   				<span>Backend Developer</span> 
 					<span>Node.js Developer</span> 
 	   			</p>
 	   			<a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
@@ -177,7 +177,7 @@
    	<div class="row button-section">
    		<div class="col-twelve">
    			<a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
-   			<a href="/files/sarim.pdf" download="SARIM SIKANDER CV.pdf" title="Download CV" id="download" class="button button-primary">Download CV</a>
+   			<a href="/download" download="/files/sarim.pdf" title="Download CV" id="download" class="button button-primary">Download CV</a>
    		</div>   		
    	</div>
 
@@ -356,7 +356,7 @@
    			<h5>Portfolio</h5>
    			<h1>Check Out Some of My Works.</h1>
 
-   			<p class="lead">I have worked on several different projects. Some of them are shown below. Inorder to see more you can visit my <a href="https://github.com/Sarim-Sikander" target="_blank">Github repo</a>.</p>
+   			<p class="lead">I have worked on several different projects. Some of them are shown below. inorder to see more you can visit my <a href="https://github.com/Sarim-Sikander" target="_blank">Github repo</a>.</p>
 
    		</div>   		
    	</div> <!-- /section-intro--> 
@@ -370,13 +370,13 @@
 
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/Pics/chatApp.png" alt="Liberty">
+	               	<img src="images/portfolio/liberty.jpg" alt="Liberty">
 	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-		     					       <h3 class="folio-title">Realtime Chat Application</h3>	     					    
+		     					       <h3 class="folio-title">Liberty</h3>	     					    
 		     					    	 <span class="folio-types">
-		     					       	  Socket.io with Node.js 
+		     					       	  Graphic Design
 		     					       </span>
 		     					   </div>	                      	
 	                     </div>                    
@@ -386,13 +386,13 @@
 
 	        		<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/Pics/taskManager.jpg" alt="Shutterbug">
+	               	<img src="images/portfolio/shutterbug.jpg" alt="Shutterbug">
 	               	<a href="#modal-02" class="overlay">              		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Task Manager Api</h3>	     					    
+	                     		<h3 class="folio-title">Shutterbug</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Express.js and Mongoose and MongoDB
+		     					       	  Web Design
 		     					      </span>		     		
 		     					   </div> 	                      	
 	                     </div>                    
@@ -402,13 +402,13 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/Pics/Machine-Learning.jpg"alt="Clouds">
+	               	<img src="images/portfolio/clouds.jpg"alt="Clouds">
 	                  <a href="#modal-03" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Various Machine Learning Applications</h3>	     					    
+	                     		<h3 class="folio-title">Clouds</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Python/ Data Science/ Databases
+		     					       	  Web Design
 		     					      </span>		     		
 		     					   </div> 	                      	
 	                     </div>                    
@@ -418,13 +418,13 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/Pics/selenium.png" alt="Beetle">
+	               	<img src="images/portfolio/beetle.jpg" alt="Beetle">
 	                  <a href="#modal-04" class="overlay">                  	                 
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Selenium Automation</h3>	     					    
+	                     		<h3 class="folio-title">Beetle</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Python-Selenium
+		     					       	  Branding
 		     					      </span>		     		
 		     					   </div>  	                      	
 	                     </div>                    
@@ -434,13 +434,13 @@
 
 	        		<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/Pics/data.png" alt="Lighthouse">
+	               	<img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
 	                  <a href="#modal-05" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Data Analysis and Visualization</h3>	     					    
+	                     		<h3 class="folio-title">Lighthouse</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Python Tools and Power BI/Tableau
+		     					       	  Web Development
 		     					      </span>		     		
 		     					   </div> 	                      	
 	                     </div>                    
@@ -450,13 +450,13 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/Pics/bigdata.png" alt="Salad">
+	               	<img src="images/portfolio/salad.jpg" alt="Salad">
 	                  <a href="#modal-06" class="overlay">
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Big Data</h3>	     					    
+	                     		<h3 class="folio-title">Salad</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Python/ Spark/ Hadoop/ Cloudera
+		     					       	  Branding
 		     					      </span>		     		
 		     					   </div>	                      	
 	                     </div>                    
@@ -469,18 +469,18 @@
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/Pics/chatApp.png" alt="" />
+				     		<img src="images/portfolio/modals/m-liberty.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Chat Application</h4>		      
-					      <p>Was able to build a realtime web chatting application in rooms. This application is build with express js and socket.io. This application has full frontend and Backend in Nodejs</p>
+					      <h4>Liberty</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Web Development (Backend Development)</div>			               
+					      <div class="categories">Web Development</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://github.com/Sarim-Sikander/Online-Chatting-Application" target="_blank">Details</a>
+			            <a href="http://www.behance.net">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -489,18 +489,18 @@
 				   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/Pics/taskManager.jpg" alt="" />
+				     		<img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Task Manager</h4>		      
-					      <p>Was able to build a Task Manager backend api. This api is build by myself and supports MongoDB database storage. It is full CRUD application with different capabilities such as Authentication and authorization.</p>
+					      <h4>Shutterbug</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Web Developement (Backend Development)</div>			               
+					      <div class="categories">Web Design</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://github.com/Sarim-Sikander/task-manager-api" target="_blank">Details</a>
+			            <a href="http://www.behance.net">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -509,18 +509,18 @@
 				   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/Pics/Machine-Learning.jpg" alt="" />
+				     		<img src="images/portfolio/modals/m-clouds.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Machine Learning Applications</h4>		      
-					      <p>There are different Machine learning applications i have built. Following my projects i have used many different models and deployement. I have implemented Deep learning within the applications and worked on so many Databases.</p>
+					      <h4>Clouds</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Data Science Applications</div>			               
+					      <div class="categories">Web Design</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://github.com/Sarim-Sikander" target="_blank">Details</a>
+			            <a href="http://www.behance.net">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -529,18 +529,18 @@
 				   <div id="modal-04" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/Pics/selenium.png" alt="" />
+				     		<img src="images/portfolio/modals/m-beetle.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Selenium Automation</h4>		      
-					      <p>I was able to use selenium with different Machine learning algorithms. To scrap data from different websites and content from websites to get the information with selenium and then automating the tool to extract the data itself, Selenium was so helpful.</p>
+					      <h4>Beetle</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Automation Tools</div>			               
+					      <div class="categories">Branding</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://github.com/Sarim-Sikander" target="_blank">Details</a>
+			            <a href="http://www.behance.net">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -549,18 +549,18 @@
 				   <div id="modal-05" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/Pics/data.png" alt="" />
+				     		<img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Data Analysis and Visualization</h4>		      
-					      <p>Data analysis and visualization was my first step towards data science. I was able to build many analysis and extract data to get useful information. I used tableau and power BI to get more useful insights and build most responsive and flexible dashboards.</p>
+					      <h4>Lighthouse</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Data Science</div>			               
+					      <div class="categories">Web Development</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://github.com/Sarim-Sikander" target="_blank">Details</a>
+			            <a href="http://www.behance.net">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -569,18 +569,18 @@
 				   <div id="modal-06" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/Pics/bigdata.png" alt="" />
+				     		<img src="images/portfolio/modals/m-salad.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Big Data Application</h4>		      
-					      <p>Big data has been a very useful specialization for large datasets. This specialization helped me to more focus on large datasets and find useful information. Spark used in python has been the language i used to build big data applications and will continue learning more.</p>
+					      <h4>Salad</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Data Science/Spark</div>			               
+					      <div class="categories">Branding</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://github.com/Sarim-Sikander" target="_blank">Details</a>
+			            <a href="http://www.behance.net">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -638,7 +638,7 @@
    			<h5>Services</h5>
    			<h1>What Can I Do For You?</h1>
 
-   			<p class="lead">There are 6 different main services i can provide for you. The first 3 are the specializations for my area of interest and other 3 depends on the projects and my capability of interest.</p>
+   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
 
    		</div>   		
    	</div> <!-- /section-intro -->
@@ -653,9 +653,9 @@
 
 	            <div class="service-content">	
 
-	            	 <h3>Data Science</h3>
+	            	 <h3>Webdesign</h3>
 
-		            <p class="desc">My farmost experience is with Data Science. I have been following this field for last couple of years and have been working on different projects. I achieved many certifications in this area and I am ready to serve any organization with my interest and experience.
+		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
 	         		</p>
 	         		
 	         	</div> 	         	 
@@ -668,9 +668,9 @@
 
 	            <div class="service-content">	
 
-	            	<h3>Web Developement (Backend Developer)</h3>  
+	            	<h3>Web Development</h3>  
 
-		            <p class="desc">Recently started this a year ago with a interest in Javascript and then proceeding with its framework Node.js. This has been a wonderful journey with it and hoping to learn more. I have developed more than 6 applications with Node js and its library Express js. Connected them with many other databases and published then of heroku with Git.
+		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
 	         		</p>
 
 	            </div>	                          
@@ -683,9 +683,9 @@
 
 	            <div class="service-content">
 
-	            	<h3>Machine Learning and Big Data</h3>
+	            	<h3>Branding</h3>
 
-		            <p class="desc">Machine Learning has been favorite. I build these applications with Python language and deploy them also. As a freelancer, I build different applications everyday with different complexity levels and almost completed everything a Machine learning engineer needs. hoping to learn more in future.
+		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
 	        			</p> 
 
 	            </div> 	            	               
@@ -698,9 +698,9 @@
 
 	            <div class="service-content">
 
-	            	<h3>Database Management and Connectivity</h3>
+	            	<h3>UI/UX Design</h3>
 
-		            <p class="desc">Databases have been a main part of all my specializations. In nodejs I am experienced in mongoDB and Mysql. For data science applications i ussually use Sqlite and Sometimes if requirement matches Nosql databases can be preferred. I have got more then 2 years of experience with these databases and queries for SQL. 
+		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
 	         		</p> 
 	         		
 	            </div>                
@@ -713,9 +713,9 @@
 
 	            <div class="service-content">
 
-	            	<h3>Cyber Security</h3>
+	            	<h3>Graphics Design</h3>
 
-		            <p class="desc">Watching the future and my childhood favorite, Hacking. This field has started ruling my days. From last 6 months I have been learning these techniques and Ethical hacking techniques. This have been the most interesting and practically most implemented subject i am learning. I would be learning more and more in the future to get my position as a Security engineer at a very good post. 
+		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
 	        			</p> 
 
 	            </div>	               
@@ -728,9 +728,9 @@
 
 	            <div class="service-content">
 
-	            	 <h3>Automation and Deployement</h3>
+	            	 <h3>Consultancy</h3>
 
-		            <p class="desc">I have got a vast experience with Github and heroku deployement with some most powerful Automation techniques. I have worked with selenium in python for the automation techniques. In area of Machine learning selenium has been helping me to extract and scrap data from the websites with the help of beautiful soup. I am focused on the areas of AWS and Google Cloud Platform to learn and fast pace my building applications.
+		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
 	        			</p> 
 	        			
 	            </div>	               
@@ -760,7 +760,7 @@
 						</div>
 
 						<h3 class="stat-count">
-							103
+							1500
 						</h3>
 
 						<h5 class="stat-title">
@@ -776,7 +776,7 @@
 						</div>
 
 						<h3 class="stat-count">
-							58
+							900
 						</h3>
 
 						<h5 class="stat-title">
@@ -792,7 +792,7 @@
 						</div>
 
 						<h3 class="stat-count">
-							62
+							200
 						</h3>
 
 						<h5 class="stat-title">
@@ -808,7 +808,7 @@
 						</div>
 
 						<h3 class="stat-count">
-							27
+							120
 						</h3>
 
 						<h5 class="stat-title">
@@ -824,7 +824,7 @@
 						</div>
 
 						<h3 class="stat-count">
-							Infinity
+							1500
 						</h3>
 
 						<h5 class="stat-title">
@@ -840,7 +840,7 @@
 						</div>
 
 						<h3 class="stat-count">
-							2000
+							7200
 						</h3>
 
 						<h5 class="stat-title">
@@ -867,7 +867,7 @@
    			<h5>Contact</h5>
    			<h1>I'd Love To Hear From You.</h1>
 
-   			<p class="lead">If any queries regarding me or any questions you can make yourself comfortable emailing me here and if you have any questions regarding hiring you can find a option above. I am 24/7 available. </p>
+   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
 
    		</div> 
    	</div> <!-- /section-intro -->
@@ -877,7 +877,7 @@
    		<div class="col-twelve">
 
             <!-- form -->
-            <form name="contactForm" action="/form" id="contactForm" method="POST">
+            <form name="contactForm" id="contactForm" method="post" action="">
       			<fieldset>
 
                   <div class="form-field">
@@ -893,7 +893,7 @@
 	                 	<textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50" required=""></textarea>
 	               </div>                      
                  <div class="form-field">
-                     <button class="submitform" class="submit">Submit</button>
+                     <button class="submitform">Submit</button>
                      <div id="submit-loader">
                         <div class="text-loader">Sending...</div>                             
        				      <div class="s-loader">
@@ -906,8 +906,7 @@
 
       			</fieldset>
       		</form> <!-- Form End -->
-			<!-- <a href="/contact" class="hire-form-live"><button class="btn btn-primary btn-block btn-lg">Live Chat</button></a> -->
-			
+
             <!-- contact-warning -->
             <div id="message-warning">            	
             </div>            
